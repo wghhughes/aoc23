@@ -16,7 +16,7 @@ func main() {
 
 	for _, line := range lines {	
 		strSplit := strings.Split(line, "")
-		
+
 		fNSI := len(line)
 		rep := 0
 
